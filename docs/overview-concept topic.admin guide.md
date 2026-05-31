@@ -1,0 +1,2 @@
+# Overview
+This Admin Guide outlines the UI mapping for Bebbo. It focuses on aligning the elements to be consistent with the app‘s branding. As for admin users, they set expectations and roles for each new holder. Therefore, minimizing the potential confusion and mismanagement of the app interface. The users, on the other hand, will be able to assess the app's legitimacy based on its previous development and its alignment with Bebbo’s registered branding.
