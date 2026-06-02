@@ -24,6 +24,6 @@ Yes,  you can also add your other children. You may follow these steps:
 4. Enter Preferred Name.
 5.  Save details.
 
- # Can I schedule a doctor’s appointment with Bebbo?
+ ## Can I schedule a doctor’s appointment with Bebbo?
 
 No, you can’t schedule appointments with Bebbo. However, you can record the scheduled doctor appointments with Bebbo to have a tracker and be reminded.
