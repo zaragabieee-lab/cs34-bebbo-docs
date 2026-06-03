@@ -10,7 +10,11 @@
 
 1. Choose where the file will be saved in your device (i.e, Downloads). 
 2. Create a folder specifically for Bebbo files.
+<<<<<<< HEAD
 3. Rename your “mybackup” file to your chosen title, and then click save. 
+=======
+3. Rename your *“mybackup”* file to your chosen title, and then click save. 
+>>>>>>> 0603a76503a26d61d536b627a262d8004ffc62e7
 
 - For Google Drive: 
 
@@ -25,6 +29,10 @@ Bebbo will automatically create a folder in your drive named **ParentBuddy.**
 1. Click the **Upload Saved Data** 
 2. Choose where you will upload the saved data from: **File Manager or Google Drive.**
 
+<<<<<<< HEAD
 *Note: The same process of backing up your data occurs when you upload it. Ensure you saved them properly on your device and that they are logged in to the same Google account you used for backup.*
 
 
+=======
+*Note: The same process of backing up your data occurs when you upload it. Ensure you saved them properly on your device and that they are logged in to the same Google account you used for backup.*
+>>>>>>> 0603a76503a26d61d536b627a262d8004ffc62e7
