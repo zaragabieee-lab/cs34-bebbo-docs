@@ -1,3 +1,64 @@
+# Notifications Feature Documentation
+
+## Overview
+
+The Notifications feature keeps parents and caregivers informed about important activities related to their child's health, development, and scheduled appointments.
+
+## Purpose
+
+Notifications help users stay updated on:
+
+- Vaccination schedules.
+- Health check-ups.
+- Development milestones.
+- App updates.
+
+## Notification Types
+
+### Vaccination Notifications
+
+Alerts users regarding:
+
+- Upcoming vaccines.
+- Overdue vaccines.
+- Recently completed vaccinations.
+
+### Health Check-Up Notifications
+
+Alerts users regarding:
+
+- Upcoming appointments.
+- Follow-up consultations.
+- Health assessment schedules.
+
+### Development Notifications
+
+Alerts users regarding:
+
+- New milestones.
+- Recommended activities.
+- Developmental achievements.
+
+## Viewing Notifications
+
+1. Open the Bebbo Parenting App.
+2. Tap the **Notifications** icon.
+3. Review the notification list.
+
+## Managing Notifications
+
+1. Open **Settings**.
+2. Select **Notifications**.
+3. Enable or disable notification preferences.
+4. Save changes.
+
+## Best Practices
+
+- Keep notifications enabled.
+- Review reminders regularly.
+- Update child information to receive accurate recommendations.
+
+
 # Notifications
 The Notifications is a reminder bell in the top-right corner of the app. Hence, it functions as an alarm for the scheduled doctor visits, expected milestones of the baby, growth, and vaccinations needed.
 ### To Navigate the Tool:
