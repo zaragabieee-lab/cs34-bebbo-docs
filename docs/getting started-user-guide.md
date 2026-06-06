@@ -4,14 +4,6 @@ Bebbo is a parenting application designed to support parents and caregivers thro
 
 This guide explains how to access, set up, and begin using Bebbo's core features.
 
-## Prerequisites
-
-Before using Bebbo, ensure that you have:
-
-- A smartphone or tablet with internet access.
-- The Bebbo Parenting App installed on your device.
-- A valid email address or supported sign-in method.
-- Basic information about your child, such as date of birth and gender.
 ## Creating an Account
 
 1. Open the Bebbo Parenting App.
