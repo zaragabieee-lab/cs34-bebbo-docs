@@ -1,8 +1,6 @@
-# Notifications Feature Documentation
+# Notifications 
 
-## Overview
-
-The Notifications feature keeps parents and caregivers informed about important activities related to their child's health, development, and scheduled appointments.
+You, parents and caregivers can get reminded about important updates on their child's health, development, and upcoming appointments.
 
 ## Purpose
 
