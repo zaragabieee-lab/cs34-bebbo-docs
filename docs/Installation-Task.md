@@ -1,6 +1,6 @@
-# How to Install Bebbo?
+# Installation of the Bebbo App
 ## In an Android mobile:
-1. Go to the ‘Play Store’ (Google Play)
+1. Go to the **‘Play Store’** (Google Play)
 2. Typed in for the ‘Bebbo Parenting App’ in the‘Search’ button below the page
 3. Click on the ‘Install’ button
 4. Wait for the download to finish
