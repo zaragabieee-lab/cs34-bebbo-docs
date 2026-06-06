@@ -158,4 +158,4 @@ Highlights:
 
 ## Navigation
 
-Users can access other modules by selecting the corresponding feature card from the Landing Page dashboard.
+Users can access other modules by selecting the corresponding feature card from the Landing Page dashboard. 
