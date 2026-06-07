@@ -37,7 +37,8 @@ World Health Organization (WHO)
 | Parent or Caregiver | User |
 | Health Check-Up | Medical Inspection |
 | Child Profile | Kid Account |
-| Select | Click |
+| Click | Select |
+
 
 ---
 
