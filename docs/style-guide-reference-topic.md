@@ -120,4 +120,5 @@ Create documentation that is easy to read and understand.
 - Use lists for related items.
 - Use headings to improve navigation.
 
+
 Consistent organization helps parents and caregivers quickly find the information they need.
