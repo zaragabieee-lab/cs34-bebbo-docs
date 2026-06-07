@@ -1,55 +1,63 @@
-# Health Check-Ups User Guide
+# Health Checkups
 
-The Health Check-Ups feature helps parents and caregivers monitor their child's scheduled medical appointments and developmental assessments. This feature ensures that important health evaluations are completed on time and recorded for future reference.
+## Understanding health checkups
 
-## Accessing Health Check-Ups
+The **Health Checkups** module helps you monitor healthcare visits and developmental assessments throughout your child's early years.
 
-1. Open the Bebbo Parenting App.
-2. Sign in to your account.
-3. Select your child’s profile.
-4. Tap **Health Check-Ups** from the main dashboard.
+Regular checkups support healthy development and help healthcare providers identify concerns as early as possible.
 
-## Viewing Health Check-Up Records
+## Monitoring appointment schedules
 
-The Health Check-Ups module displays:
+The module organizes health information and appointment schedules in one location.
+
+You can review:
 
 - Upcoming appointments.
-- Completed check-ups.
-- Missed appointments.
-- Doctor recommendations.
-- Follow-up schedules.
+- Completed checkups.
+- Follow-up visits.
+- Healthcare recommendations.
 
-## Scheduling a Check-Up
+## Reviewing appointment information
 
-1. Open **Health Check-Ups**.
-2. Select **Add Appointment**.
-3. Enter the appointment date.
-4. Add the healthcare provider information.
-5. Tap **Save**.
+Appointment records may include:
 
-## Viewing Appointment Details
+- Appointment date.
+- Appointment time.
+- Healthcare provider information.
+- Follow-up recommendations.
 
-1. Navigate to **Health Check-Ups**.
-2. Select an appointment from the list.
-3. Review the date, time, location, and notes.
+Reviewing this information helps you stay informed about your child's healthcare needs.
 
-## Health Reminders
+## Receiving appointment reminders
 
-The app automatically sends reminders for:
+Bebbo provides reminders before scheduled appointments.
 
-- Upcoming doctor appointments.
-- Follow-up consultations.
-- Routine health assessments.
+These reminders help you:
 
-## Troubleshooting
+- Prepare for upcoming visits.
+- Monitor important schedules.
+- Stay informed about healthcare activities.
 
-### Appointment does not appear
+If you miss an appointment, review the updated schedule and any follow-up recommendations provided by your healthcare professional.
 
-- Verify that the appointment was saved successfully.
-- Refresh the application.
-- Reopen the Health Check-Ups module.
+## Supporting healthy development
 
-### Reminder notification not received
+Health checkups help you:
 
-- Check notification permissions.
-- Verify that reminders are enabled in Settings.
+- Monitor your child's health.
+- Track developmental progress.
+- Identify potential concerns early.
+- Follow healthcare recommendations.
+
+Regular monitoring supports informed decisions about your child's well-being.
+
+## Connecting related information
+
+The **Health Checkups** module works alongside:
+
+- **Child Development**
+- **Vaccinations**
+- **Child Growth**
+- **Notifications**
+
+Together, these modules provide a more complete picture of your child's development.
