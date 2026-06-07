@@ -117,7 +117,7 @@ After the first mention, the acronym may be used consistently throughout the doc
 | Health checkup | Medical inspection |
 | Development milestone | Child status |
 | Sign in | Login |
-| Select | Click |
+| Click | Select |
 
 ---
 
