@@ -1,31 +1,87 @@
-# Getting Started with Bebbo Parenting App
-## Overview
-Bebbo is a parenting application designed to support parents and caregivers throughout their child's early years of development. The application provides reliable information, developmental guidance, vaccination tracking, health check-up monitoring, and personalized recommendations to help families make informed decisions about their child's well-being.
+# Getting Started
 
-This guide explains how to access, set up, and begin using Bebbo's core features.
 
-## Creating an Account
+Bebbo is a parenting app that supports parents and caregivers throughout their child's early years of development. The app provides trusted information, personalized recommendations, developmental guidance, and health monitoring tools.
 
-1. Open the Bebbo Parenting App.
-2. Select **Create Account**.
-3. Enter the required information.
-4. Review the Terms and Conditions.
-5. Tap **Continue**.
-6. Verify your account if prompted.
+Bebbo helps you monitor your child's growth, track development milestones, review vaccination schedules, and manage health checkups in one place.
 
-### Account Information Required
+## Core features
 
-- Email address.
-- Password.
-- Parent or caregiver information.
-- Country or region.
+Bebbo includes the following modules:
 
-## Signing In
+- **Child Development**
+- **Vaccinations**
+- **Health Checkups**
+- **Child Growth**
+- **Notifications**
 
-1. Open the Bebbo Parenting App.
-2. Select **Sign In**.
-3. Enter your registered email address.
-4. Enter your password.
-5. Tap **Continue**.
+Each module provides information and tools that support your child's health and development.
 
-After successful authentication, the application redirects you to the Landing Page.
+## Child Development
+
+The **Child Development** module helps you monitor developmental milestones based on your child's age.
+
+You can:
+
+- Track milestone progress.
+- View milestone achievements.
+- Explore recommended activities.
+- Learn age-appropriate developmental information.
+
+## Vaccinations
+
+The **Vaccinations** module helps you manage your child's immunization records.
+
+You can:
+
+- Review upcoming vaccines.
+- Monitor overdue vaccines.
+- View received vaccines.
+- Access vaccination history.
+
+## Health Checkups
+
+The **Health Checkups** module helps you monitor healthcare visits and developmental assessments.
+
+You can:
+
+- Review scheduled appointments.
+- Monitor completed checkups.
+- Receive appointment reminders.
+- Access health recommendations.
+
+## Child Growth
+
+The **Child Growth** module helps you monitor physical development.
+
+You can review:
+
+- Height measurements.
+- Weight measurements.
+- Growth trends.
+- Development records.
+
+## Notifications
+
+The **Notifications** module helps you stay informed about important updates.
+
+Notifications include:
+
+- Vaccination reminders.
+- Health checkup reminders.
+- Development milestone updates.
+- Recommended activities.
+
+## Benefits of using Bebbo
+
+Bebbo helps parents and caregivers:
+
+- Monitor child development.
+- Manage health information.
+- Track vaccinations.
+- Receive timely reminders.
+- Access trusted parenting resources.
+
+## Next steps
+
+Explore each module to learn more about your child's health, growth, and development.
