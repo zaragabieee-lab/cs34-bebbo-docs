@@ -1,161 +1,123 @@
-# Bebbo Technical Documentation Style Guide
+# Style Guide
 
-## Purpose and Tone
+## Understanding documentation standards
 
-Documentation must be:
+This style guide establishes standards for creating consistent technical documentation for the Bebbo Parenting App.
 
-- User-focused.
-- Professional.
-- Direct.
-- Empathetic.
-- Written in active voice.
+All documentation should remain clear, professional, supportive, and user-centered.
+
+## Using active voice
+
+Write instructions and explanations using active voice.
 
 ### Preferred
 
-"Open the **Health Check-Ups** module."
+- Open the **Vaccinations** module.
+- Track your child's milestones regularly.
 
 ### Avoid
 
-"The **Health Check-Ups** module should be opened."
+- The **Vaccinations** module should be opened.
+- Milestones can be tracked regularly.
 
----
+Active voice creates clearer and more direct communication.
 
-## Terminology and Word Choice
+## Using user-centered language
 
-### Acronym Usage
+Write from the perspective of parents and caregivers.
 
-Spell out acronyms on first mention.
+### Preferred
 
-Example:
+- Check your child's upcoming vaccine schedule.
+- Review your child's growth measurements.
 
-World Health Organization (WHO)
+### Avoid
 
-### Preferred Terms
+- Users should review growth information.
+- The parent must verify the vaccination records.
 
-| Preferred | Avoid |
-|-----------|--------|
-| Parent or Caregiver | User |
-| Health Check-Up | Medical Inspection |
-| Child Profile | Kid Account |
+User-centered language helps readers understand how information applies to them.
+
+## Maintaining an empathetic tone
+
+Use supportive language that respects the experiences of parents and caregivers.
+
+### Preferred
+
+- If you miss a vaccination schedule, the app provides reminders to help you stay updated.
+- Parents can monitor milestones at their own pace.
+
+### Avoid
+
+- Failure to complete vaccinations may result in missed tracking.
+- Parents must comply immediately.
+
+Empathetic communication creates a more welcoming experience.
+
+## Using consistent terminology
+
+Use the same terminology throughout all documentation.
+
+| Preferred | Discouraged |
+| --- | --- |
+| Parent or caregiver | User |
+| Child growth tracking | Kid stats |
+| Upcoming vaccines | Pending shots |
+| Health checkup | Medical inspection |
+| Development milestone | Child status |
+| Sign in | Login |
 | Click | Select |
 
+Consistent terminology improves clarity and usability.
 
----
+## Applying Markdown formatting
 
-## Markdown Formatting Rules
+Use Markdown consistently across all documentation.
 
-### Bold Text
+### Using headings
 
-Use bold only for:
+Use the following hierarchy:
 
+| Heading Level | Usage |
+| --- | --- |
+| `#` | Document title |
+| `##` | Major section |
+| `###` | Subsection |
+| `####` | Supporting section |
+
+### Using bold text
+
+Use bold text only for:
+
+- UI labels.
+- Navigation items.
 - Buttons.
-- Navigation labels.
 - Warnings.
-- Feature names.
 
-Example:
+### Using backticks
 
-Select **Health Check-Ups**.
+Use backticks only for:
 
-### Backticks
-
-Use backticks for:
-
-- File names.
+- Filenames.
 - Commands.
 - Variables.
+- Technical identifiers.
 
-Example:
+## Supporting readability
 
-`README.md`
+Create documentation that is easy to read and understand.
 
-### Heading Structure
+### Writing concise content
 
-# H1 – Document Title
+- Use clear language.
+- Avoid unnecessary jargon.
+- Keep explanations focused.
 
-## H2 – Major Section
+### Organizing information
 
-### H3 – Subsection
+- Group related information together.
+- Use tables when comparing information.
+- Use lists for related items.
+- Use headings to improve navigation.
 
-#### H4 – Supporting Content
-
----
-
-## Punctuation and Mechanics
-
-### Lists
-
-- Begin with a capital letter.
-- End complete sentences with a period.
-
-### Oxford Comma
-
-Always use the Oxford comma.
-
-Correct:
-
-Growth, vaccinations, and milestones.
-
-### Headings
-
-- Title Case for module names.
-- Sentence case for descriptive content.
-
----
-
-## Do's and Don'ts
-
-| Do | Don't |
-|-----|--------|
-| Use active voice. | Use passive voice. |
-| Use concise instructions. | Use lengthy explanations. |
-| Use consistent terminology. | Use multiple terms for one feature. |
-
-# Landing Page Documentation
-
-
-The Landing Page serves as the primary entry point of the Bebbo Parenting App. It provides users with quick access to child development resources, health information, vaccination records, and personalized recommendations.
-
-## Purpose
-
-The Landing Page allows parents and caregivers to:
-
-- Access key child development information.
-- View recent updates.
-- Navigate to core Bebbo features.
-- Monitor important health reminders.
-
-## Main Components
-
-### Child Profile Summary
-
-Displays:
-
-- Child name.
-- Age.
-- Development stage.
-
-### Quick Access Modules
-
-Provides shortcuts to:
-
-- Child Development.
-- Vaccinations.
-- Health Check-Ups.
-- Child Growth.
-
-### Featured Recommendations
-
-Displays personalized content based on the child's age and developmental needs.
-
-### Reminder Section
-
-Highlights:
-
-- Upcoming vaccinations.
-- Scheduled check-ups.
-- Development milestones.
-
-## Navigation
-
-Users can access other modules by selecting the corresponding feature card from the Landing Page dashboard. 
+Consistent organization helps parents and caregivers quickly find the information they need.
