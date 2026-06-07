@@ -113,7 +113,6 @@ Growth, vaccinations, and milestones.
 
 # Landing Page Documentation
 
-## Overview
 
 The Landing Page serves as the primary entry point of the Bebbo Parenting App. It provides users with quick access to child development resources, health information, vaccination records, and personalized recommendations.
 
