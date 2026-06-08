@@ -1,10 +1,10 @@
 # Installation of the Bebbo App
-Before you install, make sure you have:
+### Before you install, make sure you have:
 - A smartphone or tablet with internet access.
 - A valid email address or supported sign-in method.
 - Basic information about your child, such as date of birth and gender.
 
-## In an Android mobile:
+## Installing Bebbo App if in **Android** mobile:
 1. Go to the **‘Play Store’** **('Google Play')**.
 2. Type in for the **‘Bebbo App’** in the **Search**  below the page.
 3. Click on the **Install**.
@@ -19,7 +19,7 @@ Before you install, make sure you have:
 5. Wait for the download to finish.
 6. Click the **Open** once the download finishes
 
-## In an Apple mobile:
+## Installing Bebbo App if in **Apple** mobile:
 1. Go to the **App Store**
 2. Type in for the **Bebbo App** in the **Search** below the page
 3. Click on the **Install**
