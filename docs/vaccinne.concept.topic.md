@@ -3,6 +3,12 @@ The **Vaccinations** tool is designed to help parents monitor the vaccinations i
 ### Components
 1. Vaccination Summary
 2. Milestone
+
+<img src="assets/BEBBO - VACCINATION -LANDING PAGE.jpg" 
+     alt="vaccine landing page" 
+     width="600" 
+     style="display:block; margin:auto;">
+
 ### Vaccination Summary
 It lists the administered vaccine, to be administered vaccines, and missed vaccines
 ### Milestones
