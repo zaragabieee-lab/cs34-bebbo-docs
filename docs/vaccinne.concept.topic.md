@@ -9,6 +9,7 @@ The **Vaccinations** tool is designed to help parents monitor the vaccinations i
      width="600" 
      style="display:block; margin:auto;">
 
+
 ### Vaccination Summary
 It lists the administered vaccine, to be administered vaccines, and missed vaccines
 ### Milestones
