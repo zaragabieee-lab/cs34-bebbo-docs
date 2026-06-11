@@ -18,7 +18,7 @@ Documentation must be:
 
 "The **Health Check-Ups** module should be opened."
 
----
+
 
 ## Terminology and Word Choice
 
@@ -37,9 +37,13 @@ World Health Organization (WHO)
 | Parent or Caregiver | User |
 | Health Check-Up | Medical Inspection |
 | Child Profile | Kid Account |
+
 | Click | Select |
 
----
+ 
+
+
+
 
 ## Markdown Formatting Rules
 
@@ -78,7 +82,7 @@ Example:
 
 #### H4 – Supporting Content
 
----
+
 
 ## Punctuation and Mechanics
 
@@ -100,7 +104,7 @@ Growth, vaccinations, and milestones.
 - Title Case for module names.
 - Sentence case for descriptive content.
 
----
+
 
 ## Do's and Don'ts
 
@@ -158,4 +162,8 @@ Highlights:
 
 ## Navigation
 
+
 Users can access other modules by selecting the corresponding feature card from the Landing Page dashboard. 
+
+Users can access other modules by selecting the corresponding feature card from the Landing Page dashboard.
+>>>>>>> 47d68b9 (Health Checkup)
