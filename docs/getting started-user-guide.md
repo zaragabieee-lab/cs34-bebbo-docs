@@ -84,4 +84,4 @@ Bebbo provides tools and information that help you:
 - Stay informed about upcoming schedules.
 - Access trusted parenting resources.
 
-Parents and caregivers can explore information at their own pace while receiving guidance tailored to their child's needs.
+Parents and caregivers choose to be informed on their own pace with assurance of providing knowledge with emphaty.
