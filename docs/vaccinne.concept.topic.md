@@ -1,6 +1,7 @@
 
 # Vaccinations
 The **Vaccinations** tool is designed to help you monitor the vaccinations administered on your child or children. It involves the due dates for dosing their child or children and any missed appointments. Furthermore, each supplement has information about its purpose and the diseases it prevents. 
+![](<../assets/BEBBO - VACCINATION -LANDING PAGE (2).jpg>)
 ### Sections
 1. Vaccination Summary
 2. Milestone
