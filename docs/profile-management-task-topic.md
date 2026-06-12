@@ -1,7 +1,7 @@
 # Creating your Bebbo App profile 
 
 Parents or caregivers are automatically prompted to create a profile for themselves and for the child, after installing the Bebbo Parenting App, providing the following: 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/1de2eeae-ffde-4106-8ada-a8def9c3c9e1" />
+![alt text](../assets/1-Julia's.png)
 
 - Role in the child’s life.
 - Gender of the parents or caregivers. 
