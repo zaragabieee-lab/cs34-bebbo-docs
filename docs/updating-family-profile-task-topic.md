@@ -3,7 +3,7 @@
 ## Add Another Child 
 
 1. Click the child’s icon in the upper right corner of the app. 
-2. Go to **“Manage Profile "** and click **“ + Add Another Child “ ** 
+2. Go to **"Manage Profile"** and click **"Add Another Child"** 
 3. Click the camera icon to upload the child’s photo. 
 4. Enter your child's given name. 
 5. Enter your child’s birth date. 
