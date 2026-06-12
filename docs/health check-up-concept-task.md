@@ -5,8 +5,11 @@ The Health Check-ups feature helps parents and caregivers monitor their child's 
 ## Accessing Health Check-Ups
 1. Open Bebbo.
 2. Sign in to your account.
-3. Select your child’s profile.
-4. Tap **Health Check-Ups** from the main dashboard.
+3. Click your child’s profile.
+4. Tap **Health Check-Up** from the main dashboard.
+
+<img width="1920" height="1080" alt="Copy of bebbo (7)" src="https://github.com/user-attachments/assets/fc76481e-4dd0-408d-add7-29c0374b8668" />
+
 
 ## Viewing Health Check-Up Records
 
@@ -21,16 +24,22 @@ The Health Check-Ups module displays:
 ## Scheduling a Check-Up
 
 1. Open **Health Check-Ups**.
-2. Select **Add Appointment**.
-3. Enter the appointment date.
+2. Click **Add doctor visit**.
+3. Put the appointment date.
 4. Add the healthcare provider information.
-5. Tap **Save**.
+5. Click **Save**.
+
+<img width="1920" height="1080" alt="Copy of bebbo (8)" src="https://github.com/user-attachments/assets/b9a8998b-457a-4d3d-8664-d996ad525dca" />
+
 
 ## Viewing Appointment Details
 
-1. Navigate to **Health Check-Ups**.
-2. Select an appointment from the list.
+1. Open **Health Check-Ups**.
+2. Click an appointment from the list.
 3. Review the date, time, location, and notes.
+
+<img width="1920" height="1080" alt="Copy of bebbo (9)" src="https://github.com/user-attachments/assets/ceb76fdc-d2ca-4655-883e-8315c9f1336f" />
+
 
 ## Health Reminders
 
