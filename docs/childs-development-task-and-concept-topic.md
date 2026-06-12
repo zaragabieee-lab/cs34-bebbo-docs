@@ -36,6 +36,6 @@ The **“Related Games”** feature provides parents or caregivers and their chi
 - “What Your Child is Learning” Section: A brief discussion on the impact of the activity. 
 - “Track your child’s milestone” Section/Tab: Click this to get redirected to the **Child’s Development** page, and check off the behavior your baby presented. 
 
-**Note: You can also click on other *”Related Games”* at the bottom. Lastly, simply click *"Track Your Child's Milestones"* to return to the previous page.** 
+**Note: You can also click on other *”Related Games”* at the bottom.**
 
 <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/dbe2d4bb-504e-451a-8a99-6245f9b6a546" />
