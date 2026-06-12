@@ -29,8 +29,8 @@ Bebbo will automatically create a folder in your drive named **ParentBuddy.**
 4. Upload the saved data from Google Drive account. 
 
 <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/24a0a268-9b50-474b-a7f0-04df482a7979" />
-** Reference for backing data up ** 
+*Reference for backing data up* 
 
 <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/b2d9072d-a1ec-4a6c-a299-1d65253cbdb4" />
-** Refernce for uploading data ** 
+*Reference for uploading data*
 
