@@ -6,8 +6,8 @@ Use the “Child’s Development” tool to properly monitor your children’s b
 
 It can be found in two locations: 
 
-On the lower bar, beside “*Advice.”* 
-Click on the *“Tools”* button via the sidebar. 
+- On the lower bar, beside “*Advice.”* 
+- Click on the *“Tools”* button via sidebar, select Child's Development. 
 
 <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/b650f684-d04f-4c80-b3bf-4df76fa09528" />
 
