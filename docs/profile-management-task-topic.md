@@ -7,6 +7,7 @@ Parents or caregivers are automatically prompted to create a profile for themsel
 - Name of the users or their nicknames. 
 
 For the child’s profile, the following must be provided: 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/788ec799-0997-4ef7-a3d0-ce4035927830" />
 
 - The child’s name or nickname. 
 - Birth date. 
