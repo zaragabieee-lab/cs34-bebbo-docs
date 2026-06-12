@@ -9,7 +9,6 @@ See reference below.
 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f4a507ec-1451-4e76-a368-67af905c795c" />
 
-
 ## Updating Your Child’s Measurements
 
 1. Click **Add new measurement** and fill in the following details. 
@@ -22,4 +21,3 @@ See reference below.
 **Note: enter the doctor’s remark or comment, if there is one.**
 
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/424e9393-45f4-44b2-b41b-8571c9bbba8c" />
-
