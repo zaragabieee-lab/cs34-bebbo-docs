@@ -50,7 +50,7 @@ Alerts users regarding:
 
 ## Viewing Notifications
 
-1. Open the Bebbo Parenting App.
+1. Open Bebbo.
 2. Tap the **Notifications** icon.
 3. Review the notification list.
 
