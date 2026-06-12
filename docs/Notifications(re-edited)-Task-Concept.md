@@ -15,7 +15,24 @@ Notifications help users stay updated on:
 
 ## Notification Types
 
-### Vaccination Notifications
+### Child's Growth
+
+Alerts users regarding:
+
+- Growth tracking updates.
+- Height measurement reminders.
+- Weight measurement reminders.
+- Growth assessment recommendations.
+
+### Child Development 
+
+Alerts users regarding:
+
+- New milestones.
+- Recommended activities.
+- Developmental achievements.
+  
+### Vaccinations
 
 Alerts users regarding:
 
@@ -23,7 +40,7 @@ Alerts users regarding:
 - Overdue vaccines.
 - Recently completed vaccinations.
 
-### Health Check-Up Notifications
+### Health Check-ups
 
 Alerts users regarding:
 
@@ -31,19 +48,13 @@ Alerts users regarding:
 - Follow-up consultations.
 - Health assessment schedules.
 
-### Development Notifications
-
-Alerts users regarding:
-
-- New milestones.
-- Recommended activities.
-- Developmental achievements.
-
 ## Viewing Notifications
 
 1. Open the Bebbo Parenting App.
 2. Tap the **Notifications** icon.
 3. Review the notification list.
+
+
 
 ## Managing Notifications
 
@@ -52,11 +63,12 @@ Alerts users regarding:
 3. Enable or disable notification preferences.
 4. Save changes.
 
-### To Navigate the Tool:
+### Navigating Notifications:
 1. Open the Notification 
 2. Choose amongst the rectangular options which to be viewed first 
 3. Choose as much as desired to view. 
 4. Tap again on the tool to deselect it from the view
+   
 #### Note: The tools opened will be indicated according to the color assigned:
 - Violet - Child's Growth
 - Teal Green - Vaccinations
