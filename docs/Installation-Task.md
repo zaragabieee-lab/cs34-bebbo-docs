@@ -13,7 +13,7 @@
 6. Click the **open**  once the download finishes.
    <img width="1920" height="1080" alt="20-Zara&#39;s" src="https://github.com/user-attachments/assets/089a0c20-dd08-4d93-85c3-cae7d38ef4a6" />
 
-### Note: You can download the app on another mobile from your personal mobile through:
+### You can also remotely download the app on another mobile through:
 1. Go to the **Play Store** (**Google Play**)
 2. Register the Gmail Account of the owner of another mobile in the **Play Store** (**Google Play**)
 3. Typed in for the **Bebbo App** in the **search**  below the page.
@@ -29,4 +29,4 @@
 3. Click on the **install**
 4. Wait for the download to finish.
 5. Click the **open** once the download finishes.
-w
+
