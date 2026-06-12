@@ -2,7 +2,7 @@
 
 ## Understanding the landing page
 
-The landing page serves as the central dashboard of the Bebbo Parenting App.
+The landing page serves as the central dashboard of Bebbo.
 
 It brings together important information about your child's health, growth, and development in a single location.
 
