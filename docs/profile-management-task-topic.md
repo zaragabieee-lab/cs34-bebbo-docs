@@ -25,6 +25,8 @@ Managing the profile will require action after the account creation.
 4. Update your child’s birth date or due date. 
 5. Update your child’s gender. 
 6. Save details.
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/78fb1d84-a06e-4271-b85b-5095cc4178cc" />
+
 
 ## Managing your profile 
 
