@@ -1,11 +1,3 @@
-
-
-# Notifications 
-
-You, parents and caregivers can get reminded about important updates on their child's health, development, and upcoming appointments.
-
-# Notifications Feature Documentation
-
 # Notifications 
 
 
@@ -60,17 +52,6 @@ Alerts users regarding:
 3. Enable or disable notification preferences.
 4. Save changes.
 
-## Best Practices
-
-- Keep notifications enabled.
-- Review reminders regularly.
-- Update child information to receive accurate recommendations.
-
-
-
-
-# Notifications
-The Notifications is a reminder bell in the top-right corner of the app. Hence, it functions as an alarm for the scheduled doctor visits, expected milestones of the baby, growth, and vaccinations needed.
 ### To Navigate the Tool:
 1. Open the Notification 
 2. Choose amongst the rectangular options which to be viewed first 
@@ -81,4 +62,11 @@ The Notifications is a reminder bell in the top-right corner of the app. Hence, 
 - Teal Green - Vaccinations
 - Yellow - Child Development 
 - Pink - Health Check-up
+
+## Best Practices
+
+- Keep notifications enabled.
+- Review reminders regularly.
+- Update child information to receive accurate recommendations.
+
 
