@@ -3,7 +3,7 @@
 The Health Check-ups feature helps parents and caregivers monitor their child's scheduled medical appointments and developmental assessments. This feature ensures that important health evaluations are completed on time and recorded for future reference.
 
 ## Accessing Health Check-Ups
-1. Open the Bebbo Parenting App.
+1. Open Bebbo.
 2. Sign in to your account.
 3. Select your child’s profile.
 4. Tap **Health Check-Ups** from the main dashboard.
