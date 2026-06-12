@@ -5,7 +5,7 @@ Using the “Child’s Growth” tool allows you to enter your child's measureme
 - Through the sidebar, click "Tools" and select "Child's Growth."
 - Through the "Tools" icon on the lower bar.
 
-See reference below. 
+See reference below:
 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f4a507ec-1451-4e76-a368-67af905c795c" />
 
