@@ -1,4 +1,4 @@
-# Updating yourFamily’s Profile 
+# Updating your Family’s Profile 
 
 ## Add another child 
 
