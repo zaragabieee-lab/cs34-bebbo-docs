@@ -2,7 +2,7 @@
 
 ## Understanding documentation standards
 
-This style guide establishes standards for creating consistent technical documentation for the Bebbo Parenting App.
+This style guide establishes standards for creating consistent technical documentation for the Bebbo App.
 
 All documentation should remain clear, professional, supportive, and user-centered.
 
