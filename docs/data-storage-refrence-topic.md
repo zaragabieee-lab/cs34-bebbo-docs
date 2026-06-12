@@ -24,13 +24,13 @@ You need to keep your data safe, secure, and entirely on your own. Hence, follow
 2. Allow Bebbo to access your information
 3. Click Continue, and check your Google Drive account.
 
-Bebbo will automatically create a folder in your drive named **ParentBuddy.** 
+  Bebbo will automatically create a folder in your drive named **ParentBuddy.** 
 
-4. Upload the saved data from Google Drive account. 
+4. Upload the saved data from Google Drive account.
 
+#### Reference for backing up data
 <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/24a0a268-9b50-474b-a7f0-04df482a7979" />
-*Reference for backing data up* 
 
+#### Reference for uploading data
 <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/b2d9072d-a1ec-4a6c-a299-1d65253cbdb4" />
-*Reference for uploading data*
 
