@@ -1,6 +1,6 @@
-## Overview
+## Health Check-ups
 
-The Health Check-Ups feature helps parents and caregivers monitor their child's scheduled medical appointments and developmental assessments. This feature ensures that important health evaluations are completed on time and recorded for future reference.
+The Health Check-ups feature helps parents and caregivers monitor their child's scheduled medical appointments and developmental assessments. This feature ensures that important health evaluations are completed on time and recorded for future reference.
 
 ## Accessing Health Check-Ups
 1. Open the Bebbo Parenting App.
