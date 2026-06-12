@@ -6,7 +6,8 @@ The landing page serves as the central dashboard of the Bebbo Parenting App.
 
 It brings together important information about your child's health, growth, and development in a single location.
 
-<img width="1920" height="1080" alt="Copy of bebbo (1)" src="https://github.com/user-attachments/assets/cbf1b19b-591e-4a22-b96c-f437ab29b9e9" />
+<img width="1920" height="1080" alt="Copy of bebbo (2)" src="https://github.com/user-attachments/assets/2393a53d-6976-471a-8888-574d0e10b1fe" />
+
 
 ## Reviewing child information
 
