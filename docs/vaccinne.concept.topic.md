@@ -30,19 +30,14 @@ It states the month of the parents' child or children with the expected vaccine,
 ### Logging Previous Vaccination Schedule
 1. Click on **previous**
    <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/3894decb-99e1-4e0e-90d2-6eab9684d978" />
-
 2. Scroll to your child's birth month, and then click it.
    <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/5404848d-8bca-4f8e-8ea4-b9d40fcf4f83" />
-
 3. Click on the **Enter vaccines received**
  <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/db645e98-f37b-4bd0-85be-690c60021786" />
-
-4. Enter the **health check-up date**
+ 4. Enter the **health check-up date**
 <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/375de626-08d3-4429-96b0-da61ffa0aa63" />
-
 5. Tick the vaccines administered to your child on the checklist
    <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/47cdb840-e81b-4a59-9cb4-04b4f974929a" />
-
 <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/e59c0702-c924-4a72-a902-207a6fbbedd5" />
 6. Click **save**
 
@@ -55,7 +50,8 @@ It states the month of the parents' child or children with the expected vaccine,
   <img width="1920" height="1080" alt="14" src="https://github.com/user-attachments/assets/5ae2bea7-1249-464e-bec5-7f6b49a6462b" />
 
 - Click on **share**  on the left side of the screen to **share** on social media platforms about the vaccine, if desired.
-  <img width="1920" height="1080" alt="15" src="https://github.com/user-attachments/assets/4aeeed8d-74b8-470e-abc2-2f26434fa034" />
+<img width="1920" height="1080" alt="Copy of bebbo" src="https://github.com/user-attachments/assets/e59d1dd8-ad70-4f96-afc7-45a1c2a32104" />
+
 
 - Click the **save**  on the right side of the screen to store the information in the **Favorites**, if desired
   <img width="1920" height="1080" alt="16" src="https://github.com/user-attachments/assets/5736e539-dbac-4ade-9a81-9bcb7085cb90" />
