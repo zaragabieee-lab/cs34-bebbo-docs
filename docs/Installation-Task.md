@@ -26,8 +26,16 @@
    
 ## Installing Bebbo App in an Apple mobile:
 1. Go to the **App Store**
-2. Typed in for the **Bebbo App** in the **search** below the page
-3. Click on the **install**
-4. Wait for the download to finish.
-5.  Click the **open** once the download finishes.
+   <img width="1920" height="1080" alt="23-Zara&#39;s" src="https://github.com/user-attachments/assets/67a2eef4-64fc-4bda-8a08-c593e6d40743" />
 
+2. Typed in for the **Bebbo App** in the **search** below the page
+   <img width="1920" height="1080" alt="24-Zara&#39;s" src="https://github.com/user-attachments/assets/ab63a5fe-13df-4877-9129-89d996fdf45d" />
+
+3. Click on the **install**
+   <img width="1920" height="1080" alt="25-Zara&#39;s" src="https://github.com/user-attachments/assets/9c9c3099-fcfc-4a4a-9372-b30fe1b9ee32" />
+
+4. Wait for the download to finish.
+
+5. Click the **open** once the download finishes.
+
+<img width="1920" height="1080" alt="26-Zara&#39;s" src="https://github.com/user-attachments/assets/b468521a-4b36-45a1-8c8d-fa4cb1b1f0a3" />
