@@ -1,4 +1,4 @@
-# Know More about the Tools in Bebbo Bebbo App:
+# Knowing More About the Tools in Bebbo Bebbo App:
 
 
 Bebbo App has a specific tracker for a newborn’s milestones: Child Development, Vaccines, Health Check-up, and Child’s Growth 
