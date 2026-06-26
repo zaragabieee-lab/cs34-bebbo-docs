@@ -63,7 +63,7 @@ Alerts users regarding:
 4. Save changes.
 
 ### Navigating Notifications:
-<img width="1200" height="630" alt="6" src="https://github.com/user-attachments/assets/2172f65e-d570-405c-b30c-400ec3ed35bf" />
+<img width="1200" height="630" alt="3" src="https://github.com/user-attachments/assets/d4639ea2-28c9-434f-a3c7-e7536c638fac" />
 
 1. Open the Notification 
 2. Choose amongst the rectangular options which to be viewed first 
