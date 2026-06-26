@@ -6,7 +6,7 @@ Bebbo helps parents and caregivers support their child's health, growth, and dev
 
 The application brings together essential child development resources in one place, helping you monitor important milestones and stay informed about your child's progress.
 
-<img width="1050" height="551" alt="1" src="https://github.com/user-attachments/assets/3b7dd3fc-06e5-4344-9dfa-ae9105c664a5" />
+<img width="1050" height="551" alt="1" src="https://github.com/user-attachments/assets/8762e64d-44d0-4442-8506-2f4f5e783882" />
 
 
 ## Exploring core modules
