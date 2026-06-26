@@ -3,13 +3,13 @@
 Use the “Child’s Development” tool to properly monitor your children’s behaviour, talk, and milestones from the first month through age 7. You can easily access a YouTube video, a milestone tracker, and familiarize yourself with the Doctor’s tips for each month. 
 
 ## Navigating Child Development Tool
-
+<img width="1200" height="630" alt="4" src="https://github.com/user-attachments/assets/1ca0ba54-5e57-439d-b496-7b31220500b6" />
 It can be found in two locations: 
 
 - On the lower bar, beside “*Advice.”* 
 - Click on the *“Tools”* button via sidebar, select Child's Development. 
 
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/b650f684-d04f-4c80-b3bf-4df76fa09528" />
+
 
 It will take you to the Child’s Development page. 
 
@@ -21,14 +21,17 @@ It will take you to the Child’s Development page.
 6. Click the next month properly.
 
 ### Learning More About Milestone Tracker. 
+<img width="1200" height="630" alt="9" src="https://github.com/user-attachments/assets/69ee0303-98e3-4fe0-89d6-0b4c1468a0b3" />
 
 1. Click the milestone tracker tab. 
 2. Watch the videos for each Milestone. 
 3. Click “View Details” under “Related Games” for more information about your child’s behavior by their age.
 
-<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/4928e116-e412-4d11-8935-a59eb61079c2" />
+
 
 The **“Related Games”** feature provides parents or caregivers and their child a bonding experience that will contribute to their growth and development. You can either *share** the content or click *save* in the app. It contains the following: 
+
+<img width="1200" height="630" alt="10" src="https://github.com/user-attachments/assets/eb21854f-4e17-4cb3-bdc1-0ae75f28001c" />
 
 - Title of the Activity 
 - Materials Needed Section. 
@@ -38,4 +41,4 @@ The **“Related Games”** feature provides parents or caregivers and their chi
 
 **Note: You can also click on other *”Related Games”* at the bottom.**
 
-<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/dbe2d4bb-504e-451a-8a99-6245f9b6a546" />
+
