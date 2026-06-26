@@ -8,7 +8,8 @@ The Health Check-ups feature helps parents and caregivers monitor their child's 
 3. Click your child’s profile.
 4. Tap **Health Check-Up** from the main dashboard.
 
-<img width="1920" height="1080" alt="Copy of bebbo (7)" src="https://github.com/user-attachments/assets/fc76481e-4dd0-408d-add7-29c0374b8668" />
+<img width="1200" height="630" alt="6" src="https://github.com/user-attachments/assets/9edc2837-2e1a-4c4c-95a4-146af87e38cf" />
+
 
 
 ## Viewing Health Check-Up Records
@@ -29,7 +30,7 @@ The Health Check-Ups module displays:
 4. Add the healthcare provider information.
 5. Click **Save**.
 
-<img width="1920" height="1080" alt="Copy of bebbo (8)" src="https://github.com/user-attachments/assets/b9a8998b-457a-4d3d-8664-d996ad525dca" />
+<img width="1200" height="630" alt="7" src="https://github.com/user-attachments/assets/a4ce0144-a9de-4e65-a0ed-dc0f3ccf4851" />
 
 
 ## Viewing Appointment Details
@@ -38,7 +39,7 @@ The Health Check-Ups module displays:
 2. Click an appointment from the list.
 3. Review the date, time, location, and notes.
 
-<img width="1920" height="1080" alt="Copy of bebbo (9)" src="https://github.com/user-attachments/assets/ceb76fdc-d2ca-4655-883e-8315c9f1336f" />
+<img width="1200" height="630" alt="8" src="https://github.com/user-attachments/assets/6afdf852-caa8-4fa6-80d3-79dcde0ef3f1" />
 
 
 ## Health Reminders
