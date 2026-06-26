@@ -7,9 +7,11 @@ Using the “Child’s Growth” tool allows you to enter your child's measureme
 
 See reference below:
 
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f4a507ec-1451-4e76-a368-67af905c795c" />
+<img width="1200" height="630" alt="8" src="https://github.com/user-attachments/assets/8787ecf3-1c58-4a56-969f-6b22b95b2a05" />
+
 
 ## Updating Your Child’s Measurements
+<img width="1200" height="630" alt="8" src="https://github.com/user-attachments/assets/8d44e6f7-5d19-42a7-964a-2eff5475d35f" />
 
 1. Click **Add new measurement** and fill in the following details. 
 2. Enter the date of measurement. 
@@ -20,4 +22,4 @@ See reference below:
 
 **Note: enter the doctor’s remark or comment, if there is one.**
 
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/424e9393-45f4-44b2-b41b-8571c9bbba8c" />
+
