@@ -3,11 +3,11 @@
 You need to keep your data safe, secure, and entirely on your own. Hence, follow the instructions below on backing up and saving data. 
 
 ## Back Up and Upload Data
+<img width="1200" height="630" alt="3" src="https://github.com/user-attachments/assets/f2dc789e-a26d-420e-820c-3d76080e3b35" />
 
 1. Click  the sidebar of the app. 
 2. Go to Settings, and then swipe down where “Transfer Data” is visible. 
 3. Click **Back up your data** and choose where to save your data:
-<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/4884ffd1-f0ba-4069-a7c8-35e58fde3ff0" />
 
 **File Manager or Google Drive.**
 
@@ -29,8 +29,10 @@ You need to keep your data safe, secure, and entirely on your own. Hence, follow
 4. Upload the saved data from Google Drive account.
 
 #### A. Reference for backing up data
-<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/24a0a268-9b50-474b-a7f0-04df482a7979" />
+<img width="1200" height="630" alt="12" src="https://github.com/user-attachments/assets/1b37f5f4-2351-491a-85c4-c3c4fc1ac166" />
+
 
 #### B. Reference for uploading data
-<img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/b2d9072d-a1ec-4a6c-a299-1d65253cbdb4" />
+<img width="1200" height="630" alt="11" src="https://github.com/user-attachments/assets/1b3111b8-3342-4a75-ab28-c9aefdfe3970" />
+
 
