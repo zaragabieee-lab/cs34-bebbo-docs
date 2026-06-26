@@ -72,6 +72,8 @@ Alerts users regarding:
 
 
 #### Note: The tools opened will be indicated according to the color assigned:
+<img width="864" height="630" alt="Untitled design" src="https://github.com/user-attachments/assets/7e20ce57-5b1b-42fd-8d26-1dc019e487a2" />
+
 - Violet - Child's Growth
 - Teal Green - Vaccinations
 - Yellow - Child Development 
