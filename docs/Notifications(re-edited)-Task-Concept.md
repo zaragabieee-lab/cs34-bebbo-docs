@@ -54,7 +54,7 @@ Alerts users regarding:
 2. Tap the **Notifications** icon.
 3. Review the notification list.
 
-<img width="1920" height="1080" alt="Copy of bebbo (3)" src="https://github.com/user-attachments/assets/35232931-268e-44e9-abb5-06ae4d99b8a4" />
+<img width="1200" height="630" alt="3" src="https://github.com/user-attachments/assets/479c15e5-1a36-4a0c-ba38-5431b6ec4648" />
 
 ## Managing Notifications
 
@@ -63,15 +63,15 @@ Alerts users regarding:
 3. Enable or disable notification preferences.
 4. Save changes.
 
-<img width="1920" height="1080" alt="Copy of bebbo (4)" src="https://github.com/user-attachments/assets/b0420a13-d085-4c9d-b18e-b3da2ca9817e" />
+<img width="1200" height="630" alt="4" src="https://github.com/user-attachments/assets/c4bcc360-fa26-4e88-89ff-06ee29bd2637" />
 
 ### Navigating Notifications:
 1. Open the Notification 
 2. Choose amongst the rectangular options which to be viewed first 
 3. Choose as much as desired to view. 
 4. Tap again on the tool to deselect it from the view
+<img width="1200" height="630" alt="6" src="https://github.com/user-attachments/assets/2172f65e-d570-405c-b30c-400ec3ed35bf" />
 
-<img width="1920" height="1080" alt="Copy of bebbo (5)" src="https://github.com/user-attachments/assets/12fad5f1-5183-406a-b635-a741c59b2f20" />
 
 #### Note: The tools opened will be indicated according to the color assigned:
 - Violet - Child's Growth
