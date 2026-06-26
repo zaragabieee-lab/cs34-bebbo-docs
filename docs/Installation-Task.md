@@ -1,41 +1,53 @@
 # How to Install Bebbo?
 ## Installing Bebbo App in Android mobile:
+ <img width="1200" height="630" alt="17" src="https://github.com/user-attachments/assets/5714de35-ee82-407b-acbb-63ad91c3610e" />
+  
 1. Go to the **Play Store** (**Google Play**).
-  <img width="1920" height="1080" alt="17-Zara&#39;s" src="https://github.com/user-attachments/assets/08f6acd5-8ae2-4a0b-bd03-4781239a76b7" />
+ <img width="1200" height="630" alt="18" src="https://github.com/user-attachments/assets/3d9467fe-e6da-4179-afb9-f743e399dfc6" />
+   
 
 2. Typed in for the **Bebbo App** in the **search**  below the page.
-   <img width="1920" height="1080" alt="18-Zara&#39;s" src="https://github.com/user-attachments/assets/288a76c8-b1c5-40ad-a84b-34e9e6bc3224" />
 
+ <img width="1200" height="630" alt="19" src="https://github.com/user-attachments/assets/3da42643-a8c9-483b-bb53-183e3198de69" />
+   
 3. Click **Install**.
-   <img width="1920" height="1080" alt="19-Zara&#39;s" src="https://github.com/user-attachments/assets/0fae208d-0470-4389-89dd-585c874ba803" />
-
-5. Wait for the download to finish.
-6. Click the **open**  once the download finishes.
-   <img width="1920" height="1080" alt="20-Zara&#39;s" src="https://github.com/user-attachments/assets/089a0c20-dd08-4d93-85c3-cae7d38ef4a6" />
+4. Wait for the download to finish.
+    <img width="1920" height="1080" alt="20-Zara&#39;s" src="https://github.com/user-attachments/assets/089a0c20-dd08-4d93-85c3-cae7d38ef4a6" />
+5.  Click the **open**  once the download finishes.
 
 ### You can also remotely download the app on another mobile through:
+<img width="1200" height="630" alt="17" src="https://github.com/user-attachments/assets/531f5aba-a28b-4819-b6a7-6231f0475931" />
+
 1. Go to the **Play Store** (**Google Play**)
 2. Register the Gmail Account of the owner of another mobile in the **Play Store** (**Google Play**)
+    <img width="1200" height="630" alt="19" src="https://github.com/user-attachments/assets/3da42643-a8c9-483b-bb53-183e3198de69" />
+
 3. Typed in for the **Bebbo App** in the **search**  below the page.
+      <img width="1920" height="1080" alt="21-Zara&#39;s" src="https://github.com/user-attachments/assets/dbd08fc4-cbf6-424a-82e3-16458ddb4e4f" />
 4. Click the ‘drop-down’ arrow beside the ‘Install’ button.
-   <img width="1920" height="1080" alt="21-Zara&#39;s" src="https://github.com/user-attachments/assets/dbd08fc4-cbf6-424a-82e3-16458ddb4e4f" />
+   
+<img width="1920" height="1080" alt="22-Zara&#39;s" src="https://github.com/user-attachments/assets/bb682369-6afb-4b7b-b0ce-3d8a0a73529a" />
+
 5. Click the desired device to download the app, and then click **install**.
-   <img width="1920" height="1080" alt="22-Zara&#39;s" src="https://github.com/user-attachments/assets/bb682369-6afb-4b7b-b0ce-3d8a0a73529a" />
-6. Wait for the download to finish.
+6.  Wait for the download to finish.
+    <img width="1920" height="1080" alt="20-Zara&#39;s" src="https://github.com/user-attachments/assets/089a0c20-dd08-4d93-85c3-cae7d38ef4a6" />
+
 7. Click the **open** once the download finishes.
    
 ## Installing Bebbo App in an Apple mobile:
+<img width="1200" height="630" alt="23" src="https://github.com/user-attachments/assets/c10ef4c2-eff8-4191-8b04-200732ed6ffc" />
+
 1. Go to the **App Store**
-   <img width="1920" height="1080" alt="23-Zara&#39;s" src="https://github.com/user-attachments/assets/67a2eef4-64fc-4bda-8a08-c593e6d40743" />
+<img width="1200" height="630" alt="24" src="https://github.com/user-attachments/assets/dca25916-ca17-4916-8874-a12e2a146e1c" />
 
 2. Typed in for the **Bebbo App** in the **search** below the page
-   <img width="1920" height="1080" alt="24-Zara&#39;s" src="https://github.com/user-attachments/assets/ab63a5fe-13df-4877-9129-89d996fdf45d" />
+
+<img width="1200" height="630" alt="25" src="https://github.com/user-attachments/assets/399751e2-ad2e-4d90-b1fe-c97881db9cd9" />
 
 3. Click on the **install**
-   <img width="1920" height="1080" alt="25-Zara&#39;s" src="https://github.com/user-attachments/assets/9c9c3099-fcfc-4a4a-9372-b30fe1b9ee32" />
 
 4. Wait for the download to finish.
 
 5. Click the **open** once the download finishes.
 
-<img width="1920" height="1080" alt="26-Zara&#39;s" src="https://github.com/user-attachments/assets/b468521a-4b36-45a1-8c8d-fa4cb1b1f0a3" />
+<img width="1200" height="630" alt="26" src="https://github.com/user-attachments/assets/c43f1a35-5c3c-4382-88c2-2f16c1fc61cc" />
