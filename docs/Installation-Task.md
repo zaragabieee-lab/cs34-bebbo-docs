@@ -24,7 +24,7 @@
 
 3. Typed in for the **Bebbo App** in the **search**  below the page.
       <img width="1920" height="1080" alt="21-Zara&#39;s" src="https://github.com/user-attachments/assets/dbd08fc4-cbf6-424a-82e3-16458ddb4e4f" />
-4. Click the ‘drop-down’ arrow beside the ‘Install’ button.
+4. Click the **drop-down arrow** beside the **Install**.
    
 <img width="1920" height="1080" alt="22-Zara&#39;s" src="https://github.com/user-attachments/assets/bb682369-6afb-4b7b-b0ce-3d8a0a73529a" />
 
