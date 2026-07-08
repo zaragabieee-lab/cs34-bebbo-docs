@@ -8,7 +8,7 @@ The Health Check-ups feature helps parents and caregivers monitor their child's 
 1. Open Bebbo.
 2. Sign in to your account.
 3. Click your child’s profile.
-4. Tap **Health Check-Up** from the main dashboard.
+4. Tap **Health Check-Ups** from the main dashboard.
 
 
 
