@@ -2,8 +2,8 @@
 
 Using the “Child’s Growth” tool allows you to enter your child's measurements from birth to age 7. It monitors their weight-for-height and height-for-age; measures weight in kilograms *(kg)* and length in centimeters *(cm).* It also provides brief information on the child’s expected growth each month and encourages you to update the assessment. You can access them in two ways:
 
-- Through the sidebar, click *"Tools"* and select "Child's Growth."
-- Through the *"Tools"* icon on the lower bar.
+- Through the sidebar, click **Tools** and select **Child's Growth.**
+- Through the **Tools** icon on the lower bar.
 
 See reference below:
 
