@@ -19,7 +19,7 @@ Managing the profile will require action after the account creation.
 ## Managing your child’s profile 
 <img width="1200" height="630" alt="2" src="https://github.com/user-attachments/assets/d9ef023f-0ef2-49fa-9505-e4e104f48681" />
 
-1. Click the **pencil icon** on your child’s introductory tab shown on the upper part of the Home page. It may also indicate that your child's profile is *“incomplete.”*
+1. Click the **pencil icon** on your child’s introductory tab shown on the upper part of the Home page. It may also indicate that your child's profile is "*incomplete*".
 
 **Note: The following instruction is for your discretion .**
 
@@ -34,7 +34,7 @@ Managing the profile will require action after the account creation.
 <img width="1200" height="630" alt="4" src="https://github.com/user-attachments/assets/fc7f1f70-42a0-4f50-a4dc-eeeb98e9c42a" />
 
 1. Click your child’s icon in the upper right corner of the app. 
-2. Go to **“Manage Profile "** and click the pencil icon beside the second tab where “Parents’ detail” is indicated. 
+2. Go to **Manage Profile** and click the pencil icon beside the second tab where **Parents’ detail** is indicated. 
 3. Click the first tab indicating your relation to your child (i.e., mother, father, other caregiver, or service provider).
 4. Choose the gender, and enter your name. 
 5. Save details.
