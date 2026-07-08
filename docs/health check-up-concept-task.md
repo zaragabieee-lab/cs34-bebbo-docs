@@ -15,7 +15,7 @@ The Health Check-ups feature helps parents and caregivers monitor their child's 
 
 ## Viewing Health Check-Up Records
 
-The Health Check-Ups module displays:
+The **Health Check-Ups** module displays:
 
 - Upcoming appointments.
 - Completed check-ups.
@@ -30,7 +30,7 @@ The Health Check-Ups module displays:
 2. Click **Add doctor visit**.
 3. Put the appointment date.
 4. Add the healthcare provider information.
-5. Click **Save**.
+5. Click **save**.
 
 
 
