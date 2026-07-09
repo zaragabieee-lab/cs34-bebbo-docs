@@ -1,4 +1,5 @@
 # Child’s Development
+<img width="950" height="630" alt="BEBBO (6)" src="https://github.com/user-attachments/assets/dce62577-a7bb-4f3d-a391-53e616206cb3" />
 
 Use the **Child’s Development** to properly monitor your children’s behavior, talk, and milestones from the first month through age 7. You can easily access a YouTube video, a milestone tracker, and familiarize yourself with the Doctor’s tips for each month. 
 
