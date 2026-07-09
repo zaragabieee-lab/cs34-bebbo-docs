@@ -1,6 +1,9 @@
 # Getting Started
 
-https://github.com/user-attachments/assets/d7daf8ae-c972-458b-ac17-5d9b85198499
+
+
+https://github.com/user-attachments/assets/5f81a30c-ea36-45af-94ad-234bec5e2038
+
 
 
 ## Understanding Bebbo
