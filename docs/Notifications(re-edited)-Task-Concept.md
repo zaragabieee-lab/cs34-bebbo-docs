@@ -83,4 +83,9 @@ Alerts users regarding:
 - Review reminders regularly.
 - Update child information to receive accurate recommendations.
 
+### If the reminder notification is not received
+
+- Check notification permissions.
+- Verify that reminders are enabled in Settings.
+
 
