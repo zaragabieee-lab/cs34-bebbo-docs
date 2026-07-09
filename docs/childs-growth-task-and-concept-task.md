@@ -1,5 +1,6 @@
 # Child’s Growth 
-https://github.com/user-attachments/assets/ca294db5-cf11-4e3c-9e53-26d895092d31
+<img width="950" height="630" alt="BEBBO (5)" src="https://github.com/user-attachments/assets/b915c751-06dc-47ff-a022-37801b6080e6" />
+
 
 Using the “Child’s Growth” tool allows you to enter your child's measurements from birth to age 7. It monitors their weight-for-height and height-for-age; measures weight in kilograms *(kg)* and length in centimeters *(cm).* It also provides brief information on the child’s expected growth each month and encourages you to update the assessment. You can access them in two ways:
 
