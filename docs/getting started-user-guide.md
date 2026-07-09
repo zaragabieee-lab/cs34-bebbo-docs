@@ -1,8 +1,7 @@
 # Getting Started
 
 
-
-https://github.com/user-attachments/assets/5f81a30c-ea36-45af-94ad-234bec5e2038
+<img width="950" height="630" alt="BEBBO (2)" src="https://github.com/user-attachments/assets/59f6fcde-7102-4f48-9018-da4adf6bb71b" />
 
 
 
