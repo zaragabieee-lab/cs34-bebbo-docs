@@ -1,5 +1,8 @@
 # Getting Started
 
+https://github.com/user-attachments/assets/d7daf8ae-c972-458b-ac17-5d9b85198499
+
+
 ## Understanding Bebbo
 
 Bebbo helps parents and caregivers support their child's health, growth, and development through trusted information, personalized guidance, and age-appropriate recommendations.
