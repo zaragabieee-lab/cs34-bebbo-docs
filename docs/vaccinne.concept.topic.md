@@ -78,8 +78,9 @@ It states the month of the parents' child or children with the expected vaccine,
 <img width="1200" height="630" alt="15" src="https://github.com/user-attachments/assets/7a82643c-c7c5-4fca-bc9b-c72bd2ac9447" />
 
 - Click **share** on the left side of the screen to send  on social media platforms about the vaccine, if desired.
+- Click **save** on the left side of the screen to add articles in **favorites**
 <img width="1200" height="630" alt="16" src="https://github.com/user-attachments/assets/9a49e94d-57ac-4cd1-8bce-b413d2bd72c4" />
-- Click **save** on the left side of the screen to add articles on **favorites**
+
   
   
 
