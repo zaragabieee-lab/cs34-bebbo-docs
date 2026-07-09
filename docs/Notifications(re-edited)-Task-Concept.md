@@ -1,11 +1,7 @@
 # Notifications 
 You, parents and caregivers can get reminded about important updates on their child's health, development, and upcoming appointments.
 
-
-
-
-https://github.com/user-attachments/assets/d4ed1726-3b25-44f0-aa54-4dbd13f2ca48
-
+<img width="950" height="630" alt="BEBBO (4)" src="https://github.com/user-attachments/assets/894c8e1c-7d70-4e4b-92f9-83ffe813e17d" />
 
 
 ## Purpose
