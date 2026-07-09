@@ -1,11 +1,11 @@
 # Notifications 
+You, parents and caregivers can get reminded about important updates on their child's health, development, and upcoming appointments.
 
 
 https://github.com/user-attachments/assets/9fc68b17-40b5-42dd-92ae-6f33e6e0e3bf
 
 
 
-You, parents and caregivers can get reminded about important updates on their child's health, development, and upcoming appointments.
 
 
 ## Purpose
