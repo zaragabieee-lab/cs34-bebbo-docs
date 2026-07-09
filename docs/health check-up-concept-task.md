@@ -51,15 +51,4 @@ The app automatically sends reminders for:
 - Follow-up consultations.
 - Routine health assessments.
 
-## Troubleshooting
 
-### Appointment does not appear
-
-- Verify that the appointment was saved successfully.
-- Refresh the application.
-- Reopen the Health Check-Ups module.
-
-### Reminder notification not received
-
-- Check notification permissions.
-- Verify that reminders are enabled in Settings.
